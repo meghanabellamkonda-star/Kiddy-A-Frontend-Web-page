@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-size: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    font-size: small;
+
+ 
+   
+}
+/* h1{
+    text-align: justify;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    text-shadow: 0px 0px 10px rgb(113, 179, 212);
+    letter-spacing:10px;
+    word-spacing:10px;
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} */
+
+a {
+    text-decoration: none;
+
+
+}
+
+.headmain {
+    background-image: url("https://cdn.freepixel.com/thumb/free-photos-shocked-and-shouting-indian-little-boy-excited-playing-video-game-in-controller-hands-photo-on-dark-th-1004200413.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.nextpage {
+    margin-top: 350px;
+}
+
+.head1 {
+    background-image: url("https://cdn.firstcry.com/education/2023/01/19162436/Introducing-Secondary-Colors-To-Kids.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
+.main1 {
+    background-image: url("https://thumbs.dreamstime.com/b/colorful-rainbow-frame-multicolored-handprints-border-colorful-rainbow-frame-work-empty-copy-space-text-image-109587005.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
